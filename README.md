@@ -1,9 +1,8 @@
-## Olá! Eu sou o Iago Almeida 🖐️
+## Hello! I'm Faayz Gabriel 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dsaiago/)
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dsaiago/)
+[![Alvor.Trade](https://img.shields.io/badge/Alvor.Trade-Crypto%20Platform-000000?style=for-the-badge&logo=bitcoin&logoColor=F7931A)](https://alvor.trade)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use daily
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -11,17 +10,13 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  
 </div><br/>
 
-💻 Desenvolvedor com 2 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+💻 Front-End Developer based in **Belgium 🇧🇪**, specializing in the cryptocurrency ecosystem, financial charts, and Web3 solutions at **[Alvor.Trade](https://alvor.trade)**.
 
-### Sobre:
-Desenvolvedor Front-End com experiência na criação de interfaces modernas e responsivas 
-utilizando Vue.js, Nuxt3 e TypeScript. Compromissado por entregar código limpo e 
-escalável, garantindo a melhor experiência do usuário. Possuo conhecimento sólido em 
-automação de processos com Python e integração com APIs. Sempre buscando aprimorar 
-habilidades e contribuir para soluções inovadoras no desenvolvimento web. 
+### About Me:
+Front-End Developer focused on building modern, responsive, and high-performance interfaces for the crypto and digital asset market using **Vue.js, Nuxt3, and TypeScript**. 
 
-Estou em busca de oportunidades para aplicar meu conhecimento e habilidades em um ambiente desafiador.
-Se você procura alguém com paixão pela tecnologia e pela resolução de problemas, estou pronto para contribuir.
+Currently leading development at **[Alvor.Trade](https://alvor.trade)**, building trading platforms, real-time dashboards, and robust Python automations integrated with exchange APIs. Committed to delivering clean, scalable code focused on providing the best possible user experience for traders and investors.
+
+Always looking for new opportunities, partnerships, and connections within the crypto and fintech ecosystem in Europe and worldwide. If you're looking for someone passionate about technology, finance, and problem-solving, I'm ready to build the future!
